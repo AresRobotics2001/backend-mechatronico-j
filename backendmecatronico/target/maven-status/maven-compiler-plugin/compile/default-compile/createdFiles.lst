@@ -1,0 +1,5 @@
+com\mecatronico\backendmecatronico\controller\InicioController.class
+com\mecatronico\backendmecatronico\controller\RobotController.class
+com\mecatronico\backendmecatronico\service\ComunicacionSerial.class
+com\mecatronico\backendmecatronico\BackendmecatronicoApplication.class
+com\mecatronico\backendmecatronico\service\RobotService.class

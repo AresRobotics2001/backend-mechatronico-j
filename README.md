@@ -1,16 +1,15 @@
-# Backend Mecatrónico ⚙️🤖
+# Mechatronics Backend ⚙️🤖
 
-Este proyecto es un **backend en Java** para manejar la comunicación serial con un robot.  
-Incluye pruebas unitarias con **JUnit 5** y **Mockito**.
+This project is a **Java backend** for handling serial communication with a robot.
+It includes unit tests with **JUnit 5** and **Mockito**.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## 🚀 Technologies used
 - Java 17
 - Maven
 - JUnit 5
 - Mockito
 
 ---
-
 
